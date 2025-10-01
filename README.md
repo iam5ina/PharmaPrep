@@ -18,8 +18,6 @@ It includes interactive quizzes, review mode, score tracking, and dark mode supp
 
 ## 🖼️ Screenshots
 
-*(Add your own screenshots here — you can take them from the Xcode iOS simulator and drag into this repo.)*
-
 | Quiz Question | Answer Feedback | Review Mode |
 |---------------|----------------|-------------|
 | <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-30 at 20 33 48" src="https://github.com/user-attachments/assets/02827013-49fd-43b7-8ea7-fabf73b0c570"/> | <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-30 at 20 33 53" src="https://github.com/user-attachments/assets/884d3978-cdfd-4a1c-9a17-7b9b85343a57" /> | <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-30 at 20 34 09" src="https://github.com/user-attachments/assets/d15aae0f-593e-4bb3-a736-49a94c237b08" /> |
