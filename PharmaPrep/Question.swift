@@ -1,8 +1,12 @@
-//
-//  Question.swift
-//  PharmaPrep
-//
-//  Created by Sina Kazemeini on 2025-09-29.
-//
-
 import Foundation
+
+struct Question: Identifiable {
+    let id = UUID()
+    let prompt: String
+    let options: [String]
+    let correctAnswer: Int
+    
+    func isCorrect(_ index: Int) -> Bool {
+        index == correctAnswer
+    }
+}

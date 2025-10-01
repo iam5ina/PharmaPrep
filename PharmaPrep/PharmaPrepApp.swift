@@ -1,17 +1,13 @@
-//
-//  PharmaPrepApp.swift
-//  PharmaPrep
-//
-//  Created by Sina Kazemeini on 2025-09-29.
-//
-
 import SwiftUI
 
 @main
 struct PharmaPrepApp: App {
+    @StateObject private var quizVM = QuizViewModel()
+
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(quizVM)
         }
     }
 }
