@@ -1,4 +1,3 @@
-````markdown
 # 💊 PharmaPrep – Exam Practice App
 
 PharmaPrep is an **iOS/iPadOS quiz application** built with **SwiftUI** that helps pharmacy students and professionals prepare for exams.  
@@ -23,7 +22,7 @@ It includes interactive quizzes, review mode, score tracking, and dark mode supp
 
 | Quiz Question | Answer Feedback | Review Mode |
 |---------------|----------------|-------------|
-| ![Question](screenshots/question.png) | ![Feedback](screenshots/feedback.png) | ![Review](screenshots/review.png) |
+| <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-30 at 20 33 48" src="https://github.com/user-attachments/assets/02827013-49fd-43b7-8ea7-fabf73b0c570"/> | <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-30 at 20 33 53" src="https://github.com/user-attachments/assets/884d3978-cdfd-4a1c-9a17-7b9b85343a57" /> | <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-30 at 20 34 09" src="https://github.com/user-attachments/assets/d15aae0f-593e-4bb3-a736-49a94c237b08" /> |
 
 ---
 
@@ -33,7 +32,7 @@ It includes interactive quizzes, review mode, score tracking, and dark mode supp
    ```bash
    git clone https://github.com/iam5ina/PharmaPrep-Exam-Practice-App.git
    cd PharmaPrep-Exam-Practice-App
-````
+   ```
 
 2. Open the project in **Xcode (14.0 or later recommended)**:
 
@@ -81,6 +80,3 @@ Built by **Sina**
 🔗 [GitHub Profile](https://github.com/iam5ina)
 
 ---
-
-```
-```
