@@ -81,6 +81,3 @@ Built by **Sina**
 🔗 [GitHub Profile](https://github.com/iam5ina)
 
 ---
-
-```
-```
